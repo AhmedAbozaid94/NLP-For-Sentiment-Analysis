@@ -1,7 +1,6 @@
 # NLP-For-Sentiment-Analysis
 My Graduation Project (NLP For Sentiment Analysis)
 
-
 # Description
 
 - This project introduces an intuitive, efficient, and accurate sentiment analysis tool that bridges the gap between human emotions and machine interpretation.
@@ -9,14 +8,20 @@ My Graduation Project (NLP For Sentiment Analysis)
 <br/>
 <br/>
 
+<p align="center">
+  <img src="https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/Screenshot%202024-05-01%20232714.png" alt="Text Sentiment Analysis Interface">
+  <br/>
+  *The interface for text sentiment analysis.*
+</p>
 
-*The interface for text sentiment analysis.*
-![Text Sentiment Analysis Interface](https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/Screenshot%202024-05-01%20232714.png)
+<p align="center">
+  <img src="https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/Screenshot%202024-05-01%20232730.png" alt="Audio Sentiment Analysis Interface">
+  <br/>
+  *The interface for audio sentiment analysis, including options to record or upload audio.*
+</p>
 
-
-*The interface for audio sentiment analysis, including options to record or upload audio.*
-![Audio Sentiment Analysis Interface](https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/Screenshot%202024-05-01%20232730.png)
-
-
-*System Architecture.*
-![System Architecture](https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/New_System_arch.png)
+<p align="center">
+  <img src="https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/New_System_arch.png" alt="System Architecture">
+  <br/>
+  *System Architecture.*
+</p>
