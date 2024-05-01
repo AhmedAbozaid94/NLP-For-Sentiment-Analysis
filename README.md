@@ -23,5 +23,4 @@ My Graduation Project (NLP For Sentiment Analysis)
   *System Architecture.*
 <p align="center">
   <img src="https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/New_System_arch.png" alt="System Architecture">
-  *System Architecture.*
 </p>
