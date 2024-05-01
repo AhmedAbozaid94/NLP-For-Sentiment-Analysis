@@ -8,20 +8,20 @@ My Graduation Project (NLP For Sentiment Analysis)
 <br/>
 <br/>
 
+ *The interface for text sentiment analysis.*
 <p align="center">
   <img src="https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/Screenshot%202024-05-01%20232714.png" alt="Text Sentiment Analysis Interface">
   <br/>
-  *The interface for text sentiment analysis.*
 </p>
 
+
+  *The interface for audio sentiment analysis, including options to record or upload audio.*
 <p align="center">
   <img src="https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/Screenshot%202024-05-01%20232730.png" alt="Audio Sentiment Analysis Interface">
-  <br/>
-  *The interface for audio sentiment analysis, including options to record or upload audio.*
 </p>
 
+  *System Architecture.*
 <p align="center">
   <img src="https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/New_System_arch.png" alt="System Architecture">
-  <br/>
   *System Architecture.*
 </p>
