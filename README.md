@@ -1,7 +1,7 @@
 # NLP-For-Sentiment-Analysis
 My Graduation Project (NLP For Sentiment Analysis)
 
-# Description
+## Description
 
 - This project introduces an intuitive, efficient, and accurate sentiment analysis tool that bridges the gap between human emotions and machine interpretation.
 <br/>
@@ -24,3 +24,9 @@ My Graduation Project (NLP For Sentiment Analysis)
 <p align="center">
   <img src="https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/New_System_arch.png" alt="System Architecture">
 </p>
+
+
+## Future Work
+- Explore Additional Modalities: Integrating other modalities such as image sentiment Analysis
+- Implement Multilingual Capabilities: Extending the system to support multiple languages.
+- Enhance Model Robustness: Exploring additional layers of preprocessing to handle varied noise levels in audio data.
