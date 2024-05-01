@@ -27,6 +27,6 @@ My Graduation Project (NLP For Sentiment Analysis)
 
 
 ## Future Work
--1 Explore Additional Modalities: Integrating other modalities such as image sentiment Analysis
--2 Implement Multilingual Capabilities: Extending the system to support multiple languages.
--3 Enhance Model Robustness: Exploring additional layers of preprocessing to handle varied noise levels in audio data.
+- Explore Additional Modalities: Integrating other modalities such as image sentiment Analysis
+- Implement Multilingual Capabilities: Extending the system to support multiple languages.
+- Enhance Model Robustness: Exploring additional layers of preprocessing to handle varied noise levels in audio data.
