@@ -11,7 +11,6 @@ My Graduation Project (NLP For Sentiment Analysis)
  *The interface for text sentiment analysis.*
 <p align="center">
   <img src="https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/Screenshot%202024-05-01%20232714.png" alt="Text Sentiment Analysis Interface">
-  <br/>
 </p>
 
 
@@ -19,6 +18,7 @@ My Graduation Project (NLP For Sentiment Analysis)
 <p align="center">
   <img src="https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/Screenshot%202024-05-01%20232730.png" alt="Audio Sentiment Analysis Interface">
 </p>
+
 
   *System Architecture.*
 <p align="center">
