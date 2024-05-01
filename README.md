@@ -5,7 +5,7 @@ My Graduation Project (NLP For Sentiment Analysis)
 # Description
 
 - This project addresses the need for a nuanced, multimodal sentiment analysis system that can accurately interpret complex emotional cues from diverse data sources, thereby enhancing communication and emotional recognition in various applications
-
+/n
 
 
 *The interface for text sentiment analysis.*
