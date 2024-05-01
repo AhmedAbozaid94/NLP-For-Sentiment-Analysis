@@ -16,3 +16,7 @@ My Graduation Project (NLP For Sentiment Analysis)
 
 *The interface for audio sentiment analysis, including options to record or upload audio.*
 ![Audio Sentiment Analysis Interface](https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/Screenshot%202024-05-01%20232730.png)
+
+
+*System Architecture.*
+![System Architecture](https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/New_System_arch.png)
