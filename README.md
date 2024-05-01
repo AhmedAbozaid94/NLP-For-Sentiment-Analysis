@@ -6,7 +6,7 @@ My Graduation Project (NLP For Sentiment Analysis)
 
 - This project aims to 
 
-![Text Sentiment Analysis Interface](User Interface/Screenshot 2024-05-01 232714.png)
+![Text Sentiment Analysis Interface](https://github.com/AhmedAbozaid94/NLP-For-Sentiment-Analysis/blob/main/User%20Interface/Screenshot%202024-05-01%20232714.png)
 *The interface for text sentiment analysis.*
 
 ![Audio Sentiment Analysis Interface](url-to-the-image)
